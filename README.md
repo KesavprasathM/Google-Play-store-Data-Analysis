@@ -1,4 +1,3 @@
-![newplot (1)](https://github.com/user-attachments/assets/020d4bcb-4a4e-4b84-b56f-55abfc1b29fa)
 # Google-Play-store-Data-Analysis
 This project provides an in-depth analysis of Google Play Store apps and user reviews, focusing on understanding app performance, user sentiment, and key trends in app categories. Using Python, I performed data cleaning, feature engineering, and exploratory data analysis (EDA) on app data and reviews
 Google-Play-store-Data-Analysis
@@ -36,6 +35,9 @@ Details: Filters out categories with an average rating below 4.0, size below 10 
 
 # output visualization
 
+![Grouped bar chart Installs](https://github.com/user-attachments/assets/b6a84d1f-1eb6-464f-b56e-bef3e0508137)
+
+![Grouped bar chart Rating](https://github.com/user-attachments/assets/68500a39-4a41-4179-b71c-1e9fd34ab023)
 
 
 # Dual-Axis Chart
