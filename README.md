@@ -35,9 +35,8 @@ Details: Filters out categories with an average rating below 4.0, size below 10 
 
 # output visualization
 
-![Grouped bar chart Installs](https://github.com/user-attachments/assets/b6a84d1f-1eb6-464f-b56e-bef3e0508137)
+![Task 3 Grouped bar chart](https://github.com/user-attachments/assets/0c73578c-c59b-4ef3-86ee-694636054e9b)
 
-![Grouped bar chart Rating](https://github.com/user-attachments/assets/68500a39-4a41-4179-b71c-1e9fd34ab023)
 
 
 # Dual-Axis Chart
@@ -48,6 +47,7 @@ Details: Excludes apps with fewer than 10,000 installs, revenue below $10,000, A
 
 # output visualization
 
+![Task 4 Dual Axis chart](https://github.com/user-attachments/assets/1d865995-d8ce-4bed-947c-33b811847e2f)
 
 
 # Bubble Chart
