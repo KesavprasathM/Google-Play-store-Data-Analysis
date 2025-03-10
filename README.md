@@ -68,6 +68,7 @@ Details: Includes only apps updated within the last year, with at least 100,000 
 
 # output visualization  
 
+![Task_6_Heapmap](https://github.com/user-attachments/assets/f0de65fb-b78d-48bc-8a11-d04f5639dc6c)
 
 
 # Violin Plot
