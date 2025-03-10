@@ -58,6 +58,7 @@ Details: Includes only apps with a rating higher than 3.5 in the "Games" categor
 
 # output visualization
 
+![Task_5_Bubble-Chart](https://github.com/user-attachments/assets/e55d3f77-fd85-498d-b150-81372ff10ccc)
 
 
 # Heatmap
@@ -79,6 +80,7 @@ Details: Includes only categories with more than 50 apps, app names containing t
 
 # output visualization
 
+![Task_7_Violin Plot](https://github.com/user-attachments/assets/5e94f298-e38a-461e-a612-7ba21bafa34f)
 
 
 # Installation
