@@ -13,7 +13,8 @@ Details: Includes a trendline to show the correlation and color-codes the points
 
 # output visualization 
 
-![Task 1 Scatter plot](https://github.com/user-attachments/assets/84a23204-f689-4e59-9f6a-811523db2bbe)
+![Scatter plot](https://github.com/user-attachments/assets/cb46546e-f972-4a05-9ac9-4ff0f36261a1)
+
 
 
 # Interactive Choropleth Map
@@ -24,7 +25,7 @@ Details: Applies filters to show data for only the top 5 app categories and high
 
 # output visualization 
 
-![Task 2 Choropleth map](https://github.com/user-attachments/assets/23a8f57c-614d-4755-912b-a7df317db4b8)
+![Choropleth Map](https://github.com/user-attachments/assets/f0cb1b9d-6c7c-4b2c-8f5d-a81e9e1c778e)
 
 
 # Grouped Bar Chart
@@ -35,7 +36,8 @@ Details: Filters out categories with an average rating below 4.0, size below 10 
 
 # output visualization
 
-![Task 3 Grouped bar chart](https://github.com/user-attachments/assets/0c73578c-c59b-4ef3-86ee-694636054e9b)
+![Grouped BarChart](https://github.com/user-attachments/assets/07cd1507-c416-4649-8922-d0f5db5d00c2)
+
 
 
 
@@ -47,7 +49,7 @@ Details: Excludes apps with fewer than 10,000 installs, revenue below $10,000, A
 
 # output visualization
 
-![Task 4 Dual Axis chart](https://github.com/user-attachments/assets/1d865995-d8ce-4bed-947c-33b811847e2f)
+![Dual AxisChart](https://github.com/user-attachments/assets/6ee401f7-4738-41fc-b741-e3375d165f41)
 
 
 # Bubble Chart
@@ -58,7 +60,7 @@ Details: Includes only apps with a rating higher than 3.5 in the "Games" categor
 
 # output visualization
 
-![Task_5_Bubble-Chart](https://github.com/user-attachments/assets/e55d3f77-fd85-498d-b150-81372ff10ccc)
+![Bubble chart](https://github.com/user-attachments/assets/28d63a8d-f7ed-44c5-8dbd-f04389cda8d6)
 
 
 # Heatmap
